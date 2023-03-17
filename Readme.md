@@ -3,38 +3,24 @@
 * Студент: [Ольга Межецкая](https://up.htmlacademy.ru/htmlcss/36/user/2266611).
 * Наставник: [Алиса Пепел](https://htmlacademy.ru/profile/id615601).
 
----
+## О проекте
 
-_Не удаляйте и не обращайте внимание на файлы:_<br>
-_`.editorconfig`, `.gitattributes`, `.gitignore`, `Contributing.md`, `Readme.md`._
+<img width="769" alt="" src="/images/preview-sedona.png">
 
----
+Браузерная поддержка - Google Chrome, Mozilla Firefox, Safari
 
-### Памятка
+[Ссылка на проект](https://heligie.github.io/sedona/)
 
-#### 1. Зарегистрируйтесь на Гитхабе
+## Используемые технологии
 
-Если у вас ещё нет аккаунта на [github.com](https://github.com/join), скорее зарегистрируйтесь.
+* HTML5
+* CSS3
+* JavaScript
 
-#### 2. Создайте форк
-
-[Откройте мастер-репозиторий](https://github.com/htmlacademy-htmlcss/2266611-sedona-36) и нажмите кнопку «Fork» в правом верхнем углу. Репозиторий из Академии скопируется в ваш аккаунт.
-
-<img width="769" alt="" src="https://user-images.githubusercontent.com/10909/29037949-67a635d6-7bae-11e7-9f2f-1a48fde231b9.jpg">
-
-Получится вот так:
-
-<img width="769" alt="" src="https://user-images.githubusercontent.com/10909/29037953-6a8a7384-7bae-11e7-83ac-59603b1d696c.jpg">
-
-#### 3. Клонируйте репозиторий на свой компьютер
-
-Будьте внимательны: нужно клонировать свой репозиторий (форк), а не репозиторий Академии. Нажмите кнопку «Clone or download», а затем «Open in Desktop», чтобы клонировать репозиторий через программу [GitHub Desktop](https://desktop.github.com):
-
-<img width="769" alt="" src="https://user-images.githubusercontent.com/10909/29037955-6c20c16c-7bae-11e7-9e1a-c52010042976.jpg">
-
-Программа клонирует репозиторий на ваш компьютер и подготовит всё необходимое для старта работы.
-
-#### 4. Начинайте обучение!
+1. Выполнена разметка двух страниц
+2. Реализовано модальное окно с подложкой
+3. Сетка макета построена с использованием CSS Flexbox и CSS Grid
+4. Все интерактивные элементы сайта доступны с клавиатуры
 
 ---
 
